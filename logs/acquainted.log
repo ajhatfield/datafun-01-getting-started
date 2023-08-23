@@ -1,0 +1,18 @@
+2023-08-22 21:38:34,080.acquainted.INFO ==================================================
+2023-08-22 21:38:34,080.acquainted.INFO Today is 2023-08-22 at 09:38 PM
+2023-08-22 21:38:34,081.acquainted.INFO Running on: posix Darwin 19.6.0
+2023-08-22 21:38:34,081.acquainted.INFO Python version:  3.11.4
+2023-08-22 21:38:34,082.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-22 21:38:34,083.acquainted.INFO Working dir: /Users/alisonhatfield/Desktop/datafun-01-getting-started-1
+2023-08-22 21:38:34,084.acquainted.INFO ==================================================
+2023-08-22 21:38:34,084.acquainted.INFO Name: Alison Hatfield 
+2023-08-22 21:38:34,084.acquainted.INFO State: Missouri
+2023-08-22 21:38:34,084.acquainted.INFO Country: USA
+2023-08-22 21:38:34,084.acquainted.INFO Pet count: 1
+2023-08-22 21:38:34,084.acquainted.INFO Double the pet count: 2
+2023-08-22 21:38:34,085.acquainted.INFO Skill count: 22
+2023-08-22 21:38:34,085.acquainted.INFO Temperature: 99.9
+2023-08-22 21:38:34,085.acquainted.INFO Pet weight: 26.7
+2023-08-22 21:38:34,085.acquainted.INFO Has dog: True
+2023-08-22 21:38:34,085.acquainted.INFO Likes analytics: True
+2023-08-22 21:38:34,085.acquainted.INFO Likes Python: True
