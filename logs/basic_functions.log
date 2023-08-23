@@ -1,0 +1,14 @@
+2023-08-22 21:52:34,816.basic_functions.INFO ==================================================
+2023-08-22 21:52:34,816.basic_functions.INFO Today is 2023-08-22 at 09:52 PM
+2023-08-22 21:52:34,816.basic_functions.INFO Running on: posix Darwin 19.6.0
+2023-08-22 21:52:34,816.basic_functions.INFO Python version:  3.11.4
+2023-08-22 21:52:34,816.basic_functions.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-22 21:52:34,816.basic_functions.INFO Working dir: /Users/alisonhatfield/Desktop/datafun-01-getting-started-1
+2023-08-22 21:52:34,816.basic_functions.INFO ==================================================
+2023-08-22 21:52:34,825.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
+2023-08-22 21:52:34,825.basic_functions.INFO number_list = [1, 2, 3, 4, 5]
+2023-08-22 21:52:34,825.basic_functions.INFO len(number_list) = 5
+2023-08-22 21:52:34,825.basic_functions.INFO min(number_list) = 1
+2023-08-22 21:52:34,825.basic_functions.INFO max(number_list) = 5
+2023-08-22 21:52:37,403.basic_functions.INFO message = Hello Alison!
+2023-08-22 21:52:42,578.basic_functions.INFO response = no

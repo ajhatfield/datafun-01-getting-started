@@ -78,12 +78,12 @@ print()
 logger.info(f"message = {message}")
 
 # Ask the user if they want to see built-in functions
-response = input("Would you like to see all the built-in functions? (y/n) ").lower()
+response = input("Would you like to see all the built-in functions? (yes/no) ").lower()
 logger.info(f"response = {response}")
 print(f"You said {response}!")
 print(f"{hint}")
 
-if response == "y":
+if response == "yes":
     print()
     print("Let's open a web page. Python makes it easy!")
     webbrowser.open_new(url)
